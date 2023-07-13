@@ -1,6 +1,6 @@
 # Sushant Pandey
 
-![Profile Picture]([https://your-image-url.jpg](https://avatars.githubusercontent.com/u/96577571?s=400&u=7e4d94fdf256ab638434337ce06bd8f3a491ccd6&v=4))
+![Profile Picture](https://avatars.githubusercontent.com/u/96577571?s=400&u=7e4d94fdf256ab638434337ce06bd8f3a491ccd6&v=4)
 
 ## Introduction
 
