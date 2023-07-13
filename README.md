@@ -29,12 +29,4 @@ I'm always open to new opportunities and collaborations. You can reach me throug
 - Email: sushaantkp@outlook.in
 - LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/sushant-kumar-pandey)
 
-Let's connect and create something amazing together!
-
-## License
-
-This repository and its contents are licensed under [Your Preferred License](https://choosealicense.com/licenses/). Please review the LICENSE file for more details.
-
----
-
-Thank you for visiting my GitHub profile. I look forward to connecting with you!
+Thank you for visiting my GitHub profile.
