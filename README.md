@@ -1,7 +1,5 @@
 # Sushant Pandey
 
-![Profile Picture](https://avatars.githubusercontent.com/u/96577571?s=400&u=7e4d94fdf256ab638434337ce06bd8f3a491ccd6&v=4)
-
 ## Introduction
 
 Welcome to my GitHub profile! I'm Sushant Pandey, a passionate full stack web developer with a strong focus on creating beautiful and functional websites. I enjoy exploring new technologies, learning and growing as a developer, and collaborating on exciting projects.
