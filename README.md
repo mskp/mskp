@@ -10,37 +10,23 @@ Welcome to my GitHub profile! I'm Sushant Pandey, a passionate full stack web de
 
 Here are some of the key skills that I bring to the table:
 
-- **Front-end Development**: HTML5, CSS3, JavaScript, React, Angular
-- **Back-end Development**: Node.js, Express.js, Python, Django
+- **Front-end Development**: HTML5, CSS3, JavaScript, React.js, Next.js
+- **Back-end Development**: Node.js, Express.js, Python, Flask
 - **Database**: MySQL, MongoDB, PostgreSQL
 - **Version Control**: Git, GitHub
-- **UI/UX Design**: Responsive Web Design, Wireframing, Prototyping
 
-## Projects
+## HackerRank Badges
 
-Here are a few noteworthy projects I've worked on:
-
-1. **Project Name 1** - Brief description of the project and its key features.
-   - Technologies used: List of technologies or frameworks used.
-   - GitHub Repository: [Link to the repository](https://github.com/your-username/project-1)
-
-2. **Project Name 2** - Brief description of the project and its key features.
-   - Technologies used: List of technologies or frameworks used.
-   - GitHub Repository: [Link to the repository](https://github.com/your-username/project-2)
-
-3. **Project Name 3** - Brief description of the project and its key features.
-   - Technologies used: List of technologies or frameworks used.
-   - GitHub Repository: [Link to the repository](https://github.com/your-username/project-3)
-
-Feel free to explore my GitHub repositories for more projects and code samples.
+- :star2: Python (5 Stars Gold Badge)
+- :star2: Java (5 Stars Gold Badge)
+- :star2: C++ (5 Stars Gold Badge)
 
 ## Contact
 
 I'm always open to new opportunities and collaborations. You can reach me through the following channels:
 
-- Email: your-email@example.com
-- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/your-profile)
-- Portfolio Website: [Your Portfolio Website](https://your-portfolio-website.com)
+- Email: sushaantkp@outlook.in
+- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/sushant-kumar-pandey)
 
 Let's connect and create something amazing together!
 
