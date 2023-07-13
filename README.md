@@ -21,6 +21,8 @@ Here are some of the key skills that I bring to the table:
 - :star2: Java (5 Stars Gold Badge)
 - :star2: C++ (5 Stars Gold Badge)
 
+Visit my [HackerRank Profile](https://hackerrank.com/sushhantpandey) for more information.
+
 ## Contact
 
 I'm always open to new opportunities and collaborations. You can reach me through the following channels:
