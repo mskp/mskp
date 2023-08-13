@@ -9,7 +9,7 @@ Welcome to my GitHub profile! I'm Sushant Pandey, a passionate full stack web de
 Here are some of the key skills that I bring to the table:
 
 - **Front-end Development**: HTML5, CSS3, JavaScript, React.js, Next.js
-- **Back-end Development**: Node.js, Express.js, Python, Flask
+- **Back-end Development**: Node.js, Express.js, Python, Flask, PHP
 - **Database**: MongoDB, MySQL, PostgreSQL
 - **Version Control**: Git, GitHub
 - **Other Programming Languages**: Java, C, C++, C#, Golang
