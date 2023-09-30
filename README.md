@@ -26,7 +26,7 @@ Visit my [HackerRank Profile](https://hackerrank.com/sushhantpandey) for more in
 
 I'm always open to new opportunities and collaborations. You can reach me through the following channels:
 
-- Email: sushaantkp@outlook.in
+- Email: sushhantpandey@gmail.com
 - LinkedIn: [https://www.linkedin.com/in/sushaantkp](https://www.linkedin.com/in/sushaantkp)
 
 Thank you for visiting my GitHub profile.
