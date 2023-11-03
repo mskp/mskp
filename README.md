@@ -12,7 +12,7 @@ Here are some of the key skills that I bring to the table:
 - **Back-end Development**: Node.js, Express.js, Python, Flask, FastAPI, Django, DRF,  PHP
 - **Database**: MongoDB, MySQL, PostgreSQL
 - **Version Control**: Git, GitHub
-- **Other Programming Languages**: Java, C, C++, C#, Golang
+- **Other Programming Languages**: Java, C, C++
 
 ## HackerRank Badges
 
