@@ -1,6 +1,6 @@
 # Sushant Pandey
 
-<img src="https://miro.medium.com/v2/resize:fit:750/format:webp/1*um19N_oeTKlmrHMov0O5bA.gif" alt="Coding"/>
+<img src="https://c.tenor.com/GVk4jB2u_i8AAAAd/tenor.gif" alt="Coding" width="100%"/>
 
 ## Introduction
 
