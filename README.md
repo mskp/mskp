@@ -2,17 +2,20 @@
 
 ## Introduction
 
-Welcome to my GitHub profile! I'm Sushant Pandey, a passionate full stack web developer with a strong focus on creating beautiful and functional websites. I enjoy exploring new technologies, learning and growing as a developer, and collaborating on exciting projects.
+Hye, I'm Sushant Pandey, a passionate full stack web developer with a strong focus on creating beautiful and functional websites. I enjoy exploring new technologies, learning and growing as a developer, and collaborating on exciting projects.
 
 ## Skills
 
 Here are some of the key skills that I bring to the table:
 
-- **Front-end Development**: HTML5, CSS3, JavaScript, React.js, Next.js, Tailwind, Bootstrap
-- **Back-end Development**: Node.js, Express.js, Python, Flask, FastAPI, Django, DRF,  PHP
-- **Database**: MongoDB, MySQL, PostgreSQL
-- **Version Control**: Git, GitHub
-- **Other Programming Languages**: Java, C, C++
+- **Languages:** HTML, CSS, JavaScript, TypeScript, Python, Java, PHP, C++
+- **Libraries & Frameworks:**
+  - **JavaScript:** React.js, Next.js, Express.js
+  - **Python:** Django, Flask, FastAPI
+  - **Other:** Tailwind, Bootstrap, Material UI
+- **Databases:** MongoDB, MySQL, PostgreSQL
+- **Tools:** Git, GitHub, Docker
+- **Other Skills**: DSA & Problem Solving, Data Analysis, DBMS, Computer Networking, OS, Maths
 
 ## HackerRank Badges
 
@@ -26,7 +29,6 @@ Visit my [HackerRank Profile](https://hackerrank.com/sushhantpandey) for more in
 
 I'm always open to new opportunities and collaborations. You can reach me through the following channels:
 
-- Email: sushhantpandey@gmail.com
-- LinkedIn: [https://www.linkedin.com/in/sushaantkp](https://www.linkedin.com/in/sushaantkp)
-
-Thank you for visiting my GitHub profile.
+- **Website:** [https://sushant.fun](https://sushant.fun)
+- **Email:** sushhantpandey@gmail.com
+- **Other Links:** [https://linktr.ee/isushant](https://linktr.ee/isushant)
