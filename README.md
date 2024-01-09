@@ -1,5 +1,7 @@
 # Sushant Pandey
 
+<img src="https://miro.medium.com/v2/resize:fit:750/format:webp/1*um19N_oeTKlmrHMov0O5bA.gif" alt="Coding"/>
+
 ## Introduction
 
 Hye, I'm Sushant Pandey, a passionate full stack web developer with a strong focus on creating beautiful and functional websites. I enjoy exploring new technologies, learning and growing as a developer, and collaborating on exciting projects.
