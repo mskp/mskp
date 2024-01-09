@@ -29,6 +29,6 @@ Visit my [HackerRank Profile](https://hackerrank.com/sushhantpandey) for more in
 
 I'm always open to new opportunities and collaborations. You can reach me through the following channels:
 
-- **Website:** <a href="https://sushant.fun" target="_blank">https://sushant.fun</a>
-- **Email:** <a href="mailto:sushhantpandey@gmail.com" target="_blank">sushhantpandey@gmail.com</a>
-- **Other Links:** <a href="https://linktr.ee/isushant" target="_blank">https://linktr.ee/isushant</a>
+- **Website:** <a href="https://sushant.fun" target="_blank" rel="noopener noreferrer">https://sushant.fun</a>
+- **Email:** <a href="mailto:sushhantpandey@gmail.com" target="_blank" rel="noopener noreferrer">sushhantpandey@gmail.com</a>
+- **Other Links:** <a href="https://linktr.ee/isushant" target="_blank" rel="noopener noreferrer">https://linktr.ee/isushant</a>
