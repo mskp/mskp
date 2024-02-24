@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **sushhantpandey@gmail.com**
 
-- 📄 Know about my experiences [https://bit.ly/sushant_resume](https://bit.ly/sushant_resume)
+- 📄 Know about my experiences [https://bit.ly/sushant_resume](https://url.sushant.fun/resume)
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
