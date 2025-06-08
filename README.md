@@ -5,7 +5,6 @@
 ### Full Stack Developer
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/mskp)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github)](https://github.com/mskp)
 [![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail)](mailto:sushhantpandey@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Website-f0593e?style=for-the-badge&logoColor=white)](https://sushant.fun)
 
@@ -13,7 +12,7 @@
 
 ## 🚀 About Me
 
-I am a Full Stack Developer with extensive experience in modern technologies. My expertise lies in building robust and scalable applications that provide exceptional user experiences. I have a strong track record of developing real-life applications that address practical needs and challenges. I am committed to continuous learning and keeping up with the latest industry advancements. I am passionate about using my skills to make a significant impact and contribute to innovative projects.
+I'm Sushant Pandey, a Full Stack Developer with 2 years of experience. I'm skilled in creating scalable applications and delivering impactful solutions. I believe in practically building and shipping things rather than getting stuck in endless planning. My background includes optimizing APIs, improving database performance, and leading successful full-stack projects. I have a passion for innovation and continuous learning.
 
 <div align="center">
 
@@ -54,65 +53,3 @@ I am a Full Stack Developer with extensive experience in modern technologies. My
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-F05032?style=flat-square&logo=github&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
-
-## 💼 Experience
-
-### Full Stack Engineer @ [AKY DEVA](https://www.akydeva.com)
-*February 2024 - Present*
-
-- Delivered full-stack projects on time and within budget, optimizing database performance by 40% through advanced modeling and improving system responsiveness.
-
-- Achieved a 99.9% client satisfaction rate by building scalable, high-performance websites serving over 5,000 users while addressing feedback promptly.
-
-- Enhanced team efficiency by collaborating across functions, streamlining delivery of innovative solutions, and implementing CI/CD pipelines to reduce deployment times and boost system reliability.
-
-- Improved code quality and team onboarding through thorough documentation and regular code reviews.
-
-**Tech Stack:** TypeScript, MERN, Next.js, Astro, MySQL, Tailwind, Docker, Redis
-
-## 🏆 Projects
-
-### MockX - E-Learning Platform
-[![Live Demo](https://img.shields.io/badge/Live-Demo-success?style=for-the-badge&logo=vercel)](https://mockx.in)
-
-- Developed a comprehensive JEE and NEET exam preparation platform with subscription-based access to question banks, previous year questions, and grand tests.
-
-- Reduced page load times by over 60% and improved user retention by 25% using server-side caching, SSG, code splitting, and lazy loading.
-
-- Designed a secure admin panel, streamlining content and user management, and reducing administrative workload by more than 60%.
-
-- Built a mobile app with React Native, increasing platform accessibility and growing the user base by 45% within six months.
-
-- Created an SEO-friendly blog using Astro, driving a 30% increase in organic traffic.
-
-**Tech Stack:** TypeScript, MERN, React Native, Astro, Socket.io, Docker, Redis, Razorpay
-
-### Trosie - Project Management Tool
-[![Live Demo](https://img.shields.io/badge/Live-Demo-success?style=for-the-badge&logo=vercel)](https://trosie.vercel.app)
-[![Source Code](https://img.shields.io/badge/Source-Code-181717?style=for-the-badge&logo=github)](https://github.com/mskp/todo-management-app-trosie)
-
-- Developed a full-stack Todo Management Application, Trosie, enabling users to create, manage, and track tasks across multiple projects using Next.js, Prisma, PostgreSQL, and Nest.js, reducing project management time by 25%.
-
-- Improved API performance by optimizing database queries and using efficient pagination, resulting in a 30% faster response time and reducing server load by 20%.
-
-- Enhanced frontend performance by leveraging Next.js and Tailwind CSS, boosting page load speeds by 40%, leading to a smoother and more responsive user experience.
-
-- Integrated GitHub's Gist API to allow users to export project summaries in markdown format, facilitating seamless project documentation and increasing user engagement by 15%.
-
-**Tech Stack:** TypeScript, Next.js, Nest.js, Prisma, PostgreSQL, Tailwind
-
-
-
-## 🎓 Education
-
-**Bachelor of Computer Applications**  
-Rani Durgavati University - Jabalpur, M.P (2020 - 2023)
-
-<div align="center">
-
-### 🤝 Let's Connect!
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/mskp)
-[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail)](mailto:sushhantpandey@gmail.com)
-
-</div>
